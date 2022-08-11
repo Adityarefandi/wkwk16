@@ -14,8 +14,8 @@ global.gopay = '*belum tersedia*'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'D͟i͟t͟‘z͟_B͟o͟t͟'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0'
+global.web = 'https://youtube.com/channel/UC4c3unHcqGs4PJ5m24Q0YsQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'D͟i͟t͟‘z͟_B͟o͟t͟'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = '                     「D͟i͟t͟‘z͟_B͟o͟t͟ 」'
+global.wm3 = 'D͟i͟t͟‘z͟_B͟o͟t͟⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'D͟i͟t͟‘z͟_B͟o͟t͟⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
