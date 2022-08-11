@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['6282244877433'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
-global.gopay = '-'
+global.numberowner = '6282244877433'
+global.instagram = 'gak punya coy'
+global.github = 'https://github.com/Adityarefandi'
+global.dana = '6282244877433'
+global.pulsa = '6282244877433'
+global.gopay = '*belum tersedia*'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
+global.namebot = 'D͟i͟t͟‘z͟_B͟o͟t͟'
 global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
 global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
